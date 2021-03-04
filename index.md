@@ -1,4 +1,4 @@
-I am an assistant professor in the division of Data Science and AI at Chalmers University of Technology. Prior to coming to Chalmers I was a postdoc at KTH Royal Institute of Technology with Johan Håstad, and before that a PhD student at University of California, Berkeley, advised by Prasad Raghavendra.
+I am an assistant professor in the division of [Data Science and AI](https://www.chalmers.se/en/departments/cse/organisation/dsai/Pages/default.aspx/) at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx). Prior to coming to Chalmers I was a postdoc at KTH Royal Institute of Technology with Johan Håstad, and before that a PhD student at University of California, Berkeley, advised by Prasad Raghavendra.
 
 I am interested in topics in algorithms and complexity theory including constraint satisfaction problems, linear and semidefinite programming hierarchies, extended formulation lower bounds, hardness of approximation, the complexity of statistical inference, and the foundations of machine learning.
 
