@@ -1,4 +1,37 @@
-## Welcome to GitHub Pages
+I am an assistant professor in the division of Data Science and AI at Chalmers University of Technology. Prior to coming to Chalmers I was a postdoc at KTH Royal Institute of Technology with Johan Håstad, and before that a PhD student at University of California, Berkeley, advised by Prasad Raghavendra.
+
+I am interested in topics in algorithms and complexity theory including constraint satisfaction problems, linear and semidefinite programming hierarchies, extended formulation lower bounds, hardness of approximation, the complexity of statistical inference, and the foundations of machine learning.
+
+### Papers
+Optimal Inapproximability with Universal Factor Graphs
+Per Austrin, Jonah Brown-Cohen and Johan Håstad.
+In the 32nd ACM-SIAM Symposium on Discrete Algorithms, SODA
+2021.
+
+Extended Formulation Lower Bounds for Random CSPs
+Jonah Brown-Cohen and Prasad Raghavendra.
+In the 31st ACM-SIAM Symposium on Discrete Algorithms, SODA
+2020.
+
+Formal Barriers to Proof-of-Stake Protocols
+Jonah Brown-Cohen, Arvind Narayanan, Christos Alexandros Psomas
+and S. Matthew Weinberg.
+In the 20th ACM Conference on Economics and Computation, EC 2019.
+
+Correlation Decay and Tractability of CSPs
+Jonah Brown-Cohen and Prasad Raghavendra
+In the 43rd International Colloquium on Automata, Languages, and
+Programming, ICALP 2016.
+
+The Matching Problem has no Small Symmetric SDP
+Gabor Braun, Jonah Brown Cohen, Arefin Huq, Sebastian Pokutta,
+Prasad Raghavendra, Aurko Roy, Benjamin Weitz and Daniel Zink.
+In the 27th ACM-SIAM Symposium on Discrete Algorithms, SODA
+2016.
+
+Combinatorial Optimization Algorithms via Polymorphisms
+Jonah Brown-Cohen and Prasad Raghavendra
+Manuscript
 
 You can use the [editor on GitHub](https://github.com/jonahbc/jonahbc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
