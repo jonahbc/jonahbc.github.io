@@ -23,7 +23,7 @@ In the 31st ACM-SIAM Symposium on Discrete Algorithms, SODA
 
 [4] _Correlation Decay and Tractability of CSPs_ [[pdf](https://drops.dagstuhl.de/opus/volltexte/2016/6206/pdf/LIPIcs-ICALP-2016-79.pdf)]
 
-Jonah Brown-Cohen and Prasad Raghavendra
+Jonah Brown-Cohen and Prasad Raghavendra.
 In the 43rd International Colloquium on Automata, Languages, and
 Programming, ICALP 2016.
 
