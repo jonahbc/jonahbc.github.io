@@ -9,7 +9,7 @@ Per Austrin, Jonah Brown-Cohen and Johan Håstad.
 In the 32nd ACM-SIAM Symposium on Discrete Algorithms, SODA
 2021.
 
-[2] _Extended Formulation Lower Bounds for Random CSPs_ [[arxiv](https://arxiv.org/abs/1911.02911)]
+[2] _Extended Formulation Lower Bounds for Refuting Random CSPs_ [[arxiv](https://arxiv.org/abs/1911.02911)]
 
 Jonah Brown-Cohen and Prasad Raghavendra.
 In the 31st ACM-SIAM Symposium on Discrete Algorithms, SODA
