@@ -1,8 +1,14 @@
-I am an assistant professor in the division of [Data Science and AI](https://www.chalmers.se/en/departments/cse/organisation/dsai/Pages/default.aspx/) at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx). Prior to coming to Chalmers I was a postdoc at KTH Royal Institute of Technology with Johan Håstad, and before that a PhD student at University of California, Berkeley, advised by Prasad Raghavendra.
+I am research scientist at Google DeepMind. Previously I was an assistant professor at Chalmers University of Technology, a postdoc at KTH Royal Institute of Technology with Johan Håstad, and before that a PhD student at University of California, Berkeley, advised by Prasad Raghavendra.
 
-I am interested in topics in algorithms and complexity theory including constraint satisfaction problems, linear and semidefinite programming hierarchies, extended formulation lower bounds, hardness of approximation, the complexity of statistical inference, and the foundations of machine learning.
+I am interested in topics in algorithms and complexity theory including constraint satisfaction problems, linear and semidefinite programming hierarchies, extended formulation lower bounds, hardness of approximation, the complexity of statistical inference, and the of application complexity theoretic approaches to AI alignment.
 
 ### Papers
+_Scalable AI Safety via Doubly Efficient Debate_\
+Jonah Brown-Cohen, Geoffrey Irving, and Georgios Piliouras.
+
+_Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models_ [[arxiv](https://arxiv.org/abs/2310.17567)]\
+Dingli Yu, Simran Kaur, Arushi Gupta, Jonah Brown-Cohen, Anirudh Goyal, and Sanjeev Arora.
+
 _Faster Algorithms and Constant Lower Bounds for the Worst-Case Expected Error_ [[arxiv](https://arxiv.org/abs/2112.13832)]\
 Jonah Brown-Cohen.\
 In the 35th Conference on Neural Information Processing Systems, NeurIPS 2021.
