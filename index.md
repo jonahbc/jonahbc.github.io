@@ -3,7 +3,7 @@ I am research scientist at Google DeepMind. Previously I was an assistant profes
 I am interested in topics in algorithms and complexity theory including constraint satisfaction problems, linear and semidefinite programming hierarchies, extended formulation lower bounds, hardness of approximation, the complexity of statistical inference, and the of application complexity theoretic approaches to AI alignment.
 
 ### Papers
-_Scalable AI Safety via Doubly Efficient Debate_\
+_Scalable AI Safety via Doubly Efficient Debate_ [[arxiv](https://arxiv.org/abs/2311.14125)]\
 Jonah Brown-Cohen, Geoffrey Irving, and Georgios Piliouras.
 
 _Skill-Mix: a Flexible and Expandable Family of Evaluations for AI models_ [[arxiv](https://arxiv.org/abs/2310.17567)]\
